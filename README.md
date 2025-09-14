@@ -48,3 +48,8 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Ideia 
+Projeto para pessoas se ajudarem  com seus compromissos, uma rede social onde você cria grupos, define metas e fica de olho se seus amigos estão mantendo seus compromissos da maneira certa.
+
+Figma: https://www.figma.com/design/DG7XpBF8doWat3Xknvq4Sa/Disciplina?node-id=0-1&p=f&t=2eBNUc8ZRbLdjLzF-0
